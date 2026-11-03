@@ -92,5 +92,3 @@ Microsoft Word · Excel · PowerPoint · Outlook · Adobe Photoshop · Computer 
 - **Location:** Targu Jiu, Romania
 
 ---
-
-*Curious about AI, committed to continuous learning, and motivated to build useful software.*
