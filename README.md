@@ -1,4 +1,4 @@
-# Hi, I'm Laurentiu Ionut Sprincenatu 👋
+# Hi, I'm Sprincenatu Laurentiu Ionut 👋
 
 ### Aspiring Junior AI Developer | Python • Machine Learning • RAG • Computer Vision
 
